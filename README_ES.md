@@ -85,6 +85,7 @@ El proyecto incluye múltiples dashboards orientados al análisis del negocio:
 ---
 
 ## Estructura del Proyecto
+```markdown
 GAME_DAY_TOURS/
 │
 ├── data/ # Datos de ejemplo
@@ -94,7 +95,7 @@ GAME_DAY_TOURS/
 ├── powerbi/ # Archivos de Power BI
 ├── screenshots/ # Imágenes de dashboards
 └── README.md
-
+```
 ---
 
 ## Ejemplos de Análisis
