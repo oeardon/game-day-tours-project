@@ -87,12 +87,14 @@ The project includes multiple dashboards for business analysis:
 ```markdown
 GAME_DAY_TOURS/
 |
-├── sql/ # SQL scripts and queries
+├── data/ # Sample data
+├── powerbi/ # Power BI dashboard files
 ├── python/ # Data analysis scripts
 ├── r/ # Statistical analysis scripts (R)
-├── powerbi/ # Power BI dashboard files
 ├── screenshots/ # Dashboard visuals
-└── README.md
+├── sql/ # SQL scripts and queries
+├── README.md # This file
+└── README_ES.md # Spanish version of this file
 ```
 
 ---
