@@ -89,12 +89,13 @@ El proyecto incluye múltiples dashboards orientados al análisis del negocio:
 GAME_DAY_TOURS/
 │
 ├── data/ # Datos de ejemplo
-├── sql/ # Scripts SQL
+├── powerbi/ # Archivos de Power BI
 ├── python/ # Scripts de análisis en Python
 ├── r/ # Scripts de análisis en R
-├── powerbi/ # Archivos de Power BI
 ├── screenshots/ # Imágenes de dashboards
-└── README.md
+├── sql/ # Scripts SQL
+├── README.md # Versión en inglés de este archivo
+└── README_ES.md # Este archivo
 ```
 ---
 
