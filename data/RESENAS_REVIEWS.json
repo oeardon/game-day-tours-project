@@ -1,0 +1,1702 @@
+[
+  {
+    "_id": {
+      "$oid": "65a000004dadce8349606a06"
+    },
+    "reservaId": [
+      "1"
+    ],
+    "clienteId": "1",
+    "clienteNombre": "Roberto Mendoza",
+    "calificacion": 3,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2023-06-07T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00001b447b48438b5c41f"
+    },
+    "reservaId": [
+      "2"
+    ],
+    "clienteId": "2",
+    "clienteNombre": "Sofía Hernández",
+    "calificacion": 5,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2023-06-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000023fb806e55426eae0"
+    },
+    "reservaId": [
+      "3"
+    ],
+    "clienteId": "3",
+    "clienteNombre": "John Smith",
+    "calificacion": 4,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2023-06-11T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00003cd6880690847dc15"
+    },
+    "reservaId": [
+      "4"
+    ],
+    "clienteId": "4",
+    "clienteNombre": "María López",
+    "calificacion": 3,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2023-06-25T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000040feb8d1a6bffff9a"
+    },
+    "reservaId": [
+      "5"
+    ],
+    "clienteId": "5",
+    "clienteNombre": "Pierre Dubois",
+    "calificacion": 2,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2023-06-26T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000058869b4a02517e1ff"
+    },
+    "reservaId": [
+      "6"
+    ],
+    "clienteId": "6",
+    "clienteNombre": "Ana García",
+    "calificacion": 5,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2023-07-12T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00006e1e81f9db8dd8a3b"
+    },
+    "reservaId": [
+      "7"
+    ],
+    "clienteId": "7",
+    "clienteNombre": "Carlos Ramírez",
+    "calificacion": 1,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2023-07-27T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00007f09581dda9da14f5"
+    },
+    "reservaId": [
+      "8"
+    ],
+    "clienteId": "8",
+    "clienteNombre": "Emma Johnson",
+    "calificacion": 4,
+    "texto": "Sin duda repetiría el viaje.",
+    "fechaResena": [
+      {
+        "$date": "2023-08-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00008689ecfec9e2caebf"
+    },
+    "reservaId": [
+      "9"
+    ],
+    "clienteId": "9",
+    "clienteNombre": "Luis Martínez",
+    "calificacion": 5,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2023-08-16T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00009925b5f4807bc6eca"
+    },
+    "reservaId": [
+      "10"
+    ],
+    "clienteId": "10",
+    "clienteNombre": "Sophie Martin",
+    "calificacion": 1,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2023-08-22T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0000a5ff47a2c3b72f5a2"
+    },
+    "reservaId": [
+      "11"
+    ],
+    "clienteId": "63",
+    "clienteNombre": "Paula Molina",
+    "calificacion": 5,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-01-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0000b1df93d2b9a3667cc"
+    },
+    "reservaId": [
+      "12"
+    ],
+    "clienteId": "52",
+    "clienteNombre": "Julieta Rivas",
+    "calificacion": 5,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-04T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0000c5c15f515f75186e4"
+    },
+    "reservaId": [
+      "13"
+    ],
+    "clienteId": "39",
+    "clienteNombre": "Diego Jiménez",
+    "calificacion": 1,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-01-15T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0000d3157468629e8c956"
+    },
+    "reservaId": [
+      "14"
+    ],
+    "clienteId": "52",
+    "clienteNombre": "Julieta Rivas",
+    "calificacion": 5,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-01-17T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0000e2125e6d747b48db0"
+    },
+    "reservaId": [
+      "15"
+    ],
+    "clienteId": "38",
+    "clienteNombre": "Adriana Flores",
+    "calificacion": 3,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0000f2bb451a20dc3590a"
+    },
+    "reservaId": [
+      "16"
+    ],
+    "clienteId": "42",
+    "clienteNombre": "Oscar Díaz",
+    "calificacion": 3,
+    "texto": "El guía fue muy profesional y amable.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-20T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00010c84b940e6e2b932d"
+    },
+    "reservaId": [
+      "17"
+    ],
+    "clienteId": "95",
+    "clienteNombre": "Mía Espinoza",
+    "calificacion": 3,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-20T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00011fd93c0d644210cf5"
+    },
+    "reservaId": [
+      "18"
+    ],
+    "clienteId": "5",
+    "clienteNombre": "Pierre Dubois",
+    "calificacion": 3,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-01-29T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00012794b45c2c169bea1"
+    },
+    "reservaId": [
+      "19"
+    ],
+    "clienteId": "46",
+    "clienteNombre": "Regina Orellana",
+    "calificacion": 1,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-12T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00013bf891335276b4211"
+    },
+    "reservaId": [
+      "20"
+    ],
+    "clienteId": "57",
+    "clienteNombre": "Elena Navarro",
+    "calificacion": 4,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-14T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00014af9d8676b326906e"
+    },
+    "reservaId": [
+      "21"
+    ],
+    "clienteId": "8",
+    "clienteNombre": "Emma Johnson",
+    "calificacion": 2,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-24T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00015f5b6f391361abb4c"
+    },
+    "reservaId": [
+      "22"
+    ],
+    "clienteId": "6",
+    "clienteNombre": "Ana García",
+    "calificacion": 5,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-27T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00016405cfed259c33215"
+    },
+    "reservaId": [
+      "23"
+    ],
+    "clienteId": "24",
+    "clienteNombre": "Giovanni Rossi",
+    "calificacion": 2,
+    "texto": "El guía fue muy profesional y amable.",
+    "fechaResena": [
+      {
+        "$date": "2024-02-17T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00017d78e0cdbbb62365f"
+    },
+    "reservaId": [
+      "24"
+    ],
+    "clienteId": "72",
+    "clienteNombre": "Julia Carrillo",
+    "calificacion": 5,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-19T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001850c5eb914b43e3c4"
+    },
+    "reservaId": [
+      "25"
+    ],
+    "clienteId": "3",
+    "clienteNombre": "John Smith",
+    "calificacion": 3,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-15T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001917c16b436ce7ed0b"
+    },
+    "reservaId": [
+      "26"
+    ],
+    "clienteId": "19",
+    "clienteNombre": "Gabriela Soto",
+    "calificacion": 3,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-02T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001a7af16757bf9bff41"
+    },
+    "reservaId": [
+      "27"
+    ],
+    "clienteId": "20",
+    "clienteNombre": "Jorge Méndez",
+    "calificacion": 1,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-18T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001bfab3a2f1d7488b04"
+    },
+    "reservaId": [
+      "28"
+    ],
+    "clienteId": "98",
+    "clienteNombre": "Damián Rivera",
+    "calificacion": 2,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-06T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001c937343e5eca6f539"
+    },
+    "reservaId": [
+      "29"
+    ],
+    "clienteId": "86",
+    "clienteNombre": "Maite Quiroz",
+    "calificacion": 2,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-21T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001d7c9fe3405e87b990"
+    },
+    "reservaId": [
+      "30"
+    ],
+    "clienteId": "2",
+    "clienteNombre": "Sofía Hernández",
+    "calificacion": 5,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-12T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001e8dd138f40afe7c8a"
+    },
+    "reservaId": [
+      "31"
+    ],
+    "clienteId": "77",
+    "clienteNombre": "Diego Farías",
+    "calificacion": 4,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-06T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0001ff7a613d07a7071ef"
+    },
+    "reservaId": [
+      "32"
+    ],
+    "clienteId": "93",
+    "clienteNombre": "Florencia Mena",
+    "calificacion": 4,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-07T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00020d1d251787cb17ba2"
+    },
+    "reservaId": [
+      "33"
+    ],
+    "clienteId": "74",
+    "clienteNombre": "Zoe Lozano",
+    "calificacion": 2,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-03-25T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00021be97f627c0200743"
+    },
+    "reservaId": [
+      "34"
+    ],
+    "clienteId": "69",
+    "clienteNombre": "Isabella León",
+    "calificacion": 5,
+    "texto": "Sin duda repetiría el viaje.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-13T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00022e4b80dbe6bc16c34"
+    },
+    "reservaId": [
+      "35"
+    ],
+    "clienteId": "83",
+    "clienteNombre": "Rodrigo Ibáñez",
+    "calificacion": 3,
+    "texto": "Sin duda repetiría el viaje.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-10T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000238e4cf6ef218fee04"
+    },
+    "reservaId": [
+      "36"
+    ],
+    "clienteId": "67",
+    "clienteNombre": "Martina Campos",
+    "calificacion": 2,
+    "texto": "Sin duda repetiría el viaje.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-06T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00024ff832c12da355e32"
+    },
+    "reservaId": [
+      "37"
+    ],
+    "clienteId": "91",
+    "clienteNombre": "Ariana Salazar",
+    "calificacion": 2,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-11T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00025976d72f569455b03"
+    },
+    "reservaId": [
+      "38"
+    ],
+    "clienteId": "61",
+    "clienteNombre": "Victoria Roldán",
+    "calificacion": 1,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-21T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00026312c02b09ec585f7"
+    },
+    "reservaId": [
+      "39"
+    ],
+    "clienteId": "64",
+    "clienteNombre": "Maximiliano Soto",
+    "calificacion": 5,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-11T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002776b0730a94692dc2"
+    },
+    "reservaId": [
+      "40"
+    ],
+    "clienteId": "46",
+    "clienteNombre": "Regina Orellana",
+    "calificacion": 4,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002879948ca3b38a8947"
+    },
+    "reservaId": [
+      "41"
+    ],
+    "clienteId": "51",
+    "clienteNombre": "Mateo Álvarez",
+    "calificacion": 4,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-04-19T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00029fce02f1d8f88436f"
+    },
+    "reservaId": [
+      "42"
+    ],
+    "clienteId": "76",
+    "clienteNombre": "Valentina Beltrán",
+    "calificacion": 1,
+    "texto": "Recomendado para familias y amigos.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002a361454291223c081"
+    },
+    "reservaId": [
+      "43"
+    ],
+    "clienteId": "52",
+    "clienteNombre": "Julieta Rivas",
+    "calificacion": 1,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-02T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002bb304aac9bf6e8483"
+    },
+    "reservaId": [
+      "44"
+    ],
+    "clienteId": "73",
+    "clienteNombre": "Felipe Esquivel",
+    "calificacion": 1,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-02T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002ce7f5b5d2069378c2"
+    },
+    "reservaId": [
+      "45"
+    ],
+    "clienteId": "68",
+    "clienteNombre": "Ángel Figueroa",
+    "calificacion": 3,
+    "texto": "Sin duda repetiría el viaje.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-02T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002d1943c7aec41cfe3b"
+    },
+    "reservaId": [
+      "46"
+    ],
+    "clienteId": "73",
+    "clienteNombre": "Felipe Esquivel",
+    "calificacion": 1,
+    "texto": "Recomendado para familias y amigos.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-12T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002eec8cc2602600d23e"
+    },
+    "reservaId": [
+      "47"
+    ],
+    "clienteId": "14",
+    "clienteNombre": "Fernanda Juárez",
+    "calificacion": 2,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-23T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0002f1f6bcb401a2e6665"
+    },
+    "reservaId": [
+      "48"
+    ],
+    "clienteId": "69",
+    "clienteNombre": "Isabella León",
+    "calificacion": 4,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003030260f5054798a07"
+    },
+    "reservaId": [
+      "49"
+    ],
+    "clienteId": "19",
+    "clienteNombre": "Gabriela Soto",
+    "calificacion": 5,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-05T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00031f0aa58e98fca5b5d"
+    },
+    "reservaId": [
+      "50"
+    ],
+    "clienteId": "95",
+    "clienteNombre": "Mía Espinoza",
+    "calificacion": 5,
+    "texto": "Sin duda repetiría el viaje.",
+    "fechaResena": [
+      {
+        "$date": "2024-05-28T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000326aa9f9ae7b95ffb1"
+    },
+    "reservaId": [
+      "51"
+    ],
+    "clienteId": "82",
+    "clienteNombre": "Agustina Méndez",
+    "calificacion": 4,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-15T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003356d9fea02891c00a"
+    },
+    "reservaId": [
+      "52"
+    ],
+    "clienteId": "98",
+    "clienteNombre": "Damián Rivera",
+    "calificacion": 1,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-12T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003448eadd78bba7bb17"
+    },
+    "reservaId": [
+      "53"
+    ],
+    "clienteId": "80",
+    "clienteNombre": "Josefa Núñez",
+    "calificacion": 3,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-16T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003589d32093ad5e5591"
+    },
+    "reservaId": [
+      "54"
+    ],
+    "clienteId": "45",
+    "clienteNombre": "Sara Contreras",
+    "calificacion": 2,
+    "texto": "Recomendado para familias y amigos.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-06T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000361fe8714a47a94886"
+    },
+    "reservaId": [
+      "55"
+    ],
+    "clienteId": "98",
+    "clienteNombre": "Damián Rivera",
+    "calificacion": 3,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-29T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000374f7e6ba4ea41ae51"
+    },
+    "reservaId": [
+      "56"
+    ],
+    "clienteId": "72",
+    "clienteNombre": "Julia Carrillo",
+    "calificacion": 2,
+    "texto": "Recomendado para familias y amigos.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-12T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00038813d36b06a8920d1"
+    },
+    "reservaId": [
+      "57"
+    ],
+    "clienteId": "73",
+    "clienteNombre": "Felipe Esquivel",
+    "calificacion": 5,
+    "texto": "Muy buena relación calidad-precio.",
+    "fechaResena": [
+      {
+        "$date": "2024-06-21T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000396f96154d9e504b37"
+    },
+    "reservaId": [
+      "58"
+    ],
+    "clienteId": "42",
+    "clienteNombre": "Oscar Díaz",
+    "calificacion": 4,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-12T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003a85f8c7f0b37b6370"
+    },
+    "reservaId": [
+      "59"
+    ],
+    "clienteId": "50",
+    "clienteNombre": "Manuel Vega",
+    "calificacion": 5,
+    "texto": "Muy buena relación calidad-precio.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-15T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003b2a1a248526a88f29"
+    },
+    "reservaId": [
+      "60"
+    ],
+    "clienteId": "80",
+    "clienteNombre": "Josefa Núñez",
+    "calificacion": 5,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-15T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003ccd9c7e40bf21512d"
+    },
+    "reservaId": [
+      "61"
+    ],
+    "clienteId": "47",
+    "clienteNombre": "Héctor Barrios",
+    "calificacion": 3,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-23T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003d2b2b3c7510489de2"
+    },
+    "reservaId": [
+      "62"
+    ],
+    "clienteId": "5",
+    "clienteNombre": "Pierre Dubois",
+    "calificacion": 2,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-03T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003e8a5f525a61b38c19"
+    },
+    "reservaId": [
+      "63"
+    ],
+    "clienteId": "98",
+    "clienteNombre": "Damián Rivera",
+    "calificacion": 4,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-14T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0003ff04c49e6b1ee20e5"
+    },
+    "reservaId": [
+      "64"
+    ],
+    "clienteId": "68",
+    "clienteNombre": "Ángel Figueroa",
+    "calificacion": 2,
+    "texto": "Recomendado para familias y amigos.",
+    "fechaResena": [
+      {
+        "$date": "2024-08-02T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000405f5930e6aed7809b"
+    },
+    "reservaId": [
+      "65"
+    ],
+    "clienteId": "31",
+    "clienteNombre": "Valeria Mendoza",
+    "calificacion": 1,
+    "texto": "El guía fue muy profesional y amable.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-16T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000416e3813acfa047e22"
+    },
+    "reservaId": [
+      "66"
+    ],
+    "clienteId": "15",
+    "clienteNombre": "Ricardo Vargas",
+    "calificacion": 1,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-25T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0004212112b9af9813e69"
+    },
+    "reservaId": [
+      "67"
+    ],
+    "clienteId": "37",
+    "clienteNombre": "Sebastián Torres",
+    "calificacion": 3,
+    "texto": "El guía fue muy profesional y amable.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-27T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00043c37ce82d752556fb"
+    },
+    "reservaId": [
+      "68"
+    ],
+    "clienteId": "32",
+    "clienteNombre": "Ximena López",
+    "calificacion": 4,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-31T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00044be55264561cef6c5"
+    },
+    "reservaId": [
+      "69"
+    ],
+    "clienteId": "37",
+    "clienteNombre": "Sebastián Torres",
+    "calificacion": 3,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-07-26T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00045ebf953560663dd09"
+    },
+    "reservaId": [
+      "70"
+    ],
+    "clienteId": "97",
+    "clienteNombre": "Bianca Tapia",
+    "calificacion": 5,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-08-10T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000461aa56facf5e524bf"
+    },
+    "reservaId": [
+      "71"
+    ],
+    "clienteId": "80",
+    "clienteNombre": "Josefa Núñez",
+    "calificacion": 3,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-08-18T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00047de1c8b6aef583696"
+    },
+    "reservaId": [
+      "72"
+    ],
+    "clienteId": "100",
+    "clienteNombre": "Esteban Mora",
+    "calificacion": 3,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-08-11T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000481428f1e4a8f2452e"
+    },
+    "reservaId": [
+      "73"
+    ],
+    "clienteId": "98",
+    "clienteNombre": "Damián Rivera",
+    "calificacion": 3,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-08-17T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00049e19b34108f19a586"
+    },
+    "reservaId": [
+      "74"
+    ],
+    "clienteId": "92",
+    "clienteNombre": "Axel Carranza",
+    "calificacion": 3,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-10T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0004a950191a2e1a4de75"
+    },
+    "reservaId": [
+      "75"
+    ],
+    "clienteId": "39",
+    "clienteNombre": "Diego Jiménez",
+    "calificacion": 1,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-08-13T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0004b67677df5cb28a667"
+    },
+    "reservaId": [
+      "76"
+    ],
+    "clienteId": "38",
+    "clienteNombre": "Adriana Flores",
+    "calificacion": 4,
+    "texto": "Sin duda repetiría el viaje.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0004c73074d75f140b077"
+    },
+    "reservaId": [
+      "77"
+    ],
+    "clienteId": "37",
+    "clienteNombre": "Sebastián Torres",
+    "calificacion": 2,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-08-27T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0004dda973542e61d3079"
+    },
+    "reservaId": [
+      "78"
+    ],
+    "clienteId": "96",
+    "clienteNombre": "Ian Zúñiga",
+    "calificacion": 3,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0004ed78fa22795fec3ad"
+    },
+    "reservaId": [
+      "79"
+    ],
+    "clienteId": "40",
+    "clienteNombre": "Natalia Chávez",
+    "calificacion": 4,
+    "texto": "El guía fue muy profesional y amable.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-02T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0004f5ae33297c07ba8b1"
+    },
+    "reservaId": [
+      "80"
+    ],
+    "clienteId": "90",
+    "clienteNombre": "Renzo Toledo",
+    "calificacion": 5,
+    "texto": "Muy buena relación calidad-precio.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-16T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000507114bcd63ab07bf3"
+    },
+    "reservaId": [
+      "81"
+    ],
+    "clienteId": "7",
+    "clienteNombre": "Carlos Ramírez",
+    "calificacion": 1,
+    "texto": "Muy buena relación calidad-precio.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-20T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00051c49a6f9c0ee3e0e2"
+    },
+    "reservaId": [
+      "82"
+    ],
+    "clienteId": "69",
+    "clienteNombre": "Isabella León",
+    "calificacion": 4,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-16T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000527c6c60e1927666df"
+    },
+    "reservaId": [
+      "83"
+    ],
+    "clienteId": "74",
+    "clienteNombre": "Zoe Lozano",
+    "calificacion": 3,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-30T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00053ee0e62c95955f37d"
+    },
+    "reservaId": [
+      "84"
+    ],
+    "clienteId": "60",
+    "clienteNombre": "Bruno Medina",
+    "calificacion": 2,
+    "texto": "Muy buena relación calidad-precio.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-26T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00054191f7923e8ba02f8"
+    },
+    "reservaId": [
+      "85"
+    ],
+    "clienteId": "35",
+    "clienteNombre": "Francisco Pérez",
+    "calificacion": 4,
+    "texto": "Recomendado para familias y amigos.",
+    "fechaResena": [
+      {
+        "$date": "2024-10-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000552f18fe2f8978f5a2"
+    },
+    "reservaId": [
+      "86"
+    ],
+    "clienteId": "56",
+    "clienteNombre": "Renata Cruz",
+    "calificacion": 4,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-09-26T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005632e321016dc878df"
+    },
+    "reservaId": [
+      "87"
+    ],
+    "clienteId": "79",
+    "clienteNombre": "Gabriel Aranda",
+    "calificacion": 2,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-10-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000571fd9db6b83860937"
+    },
+    "reservaId": [
+      "88"
+    ],
+    "clienteId": "83",
+    "clienteNombre": "Rodrigo Ibáñez",
+    "calificacion": 3,
+    "texto": "Recomendado para familias y amigos.",
+    "fechaResena": [
+      {
+        "$date": "2024-10-04T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000584bdfe627fbb71669"
+    },
+    "reservaId": [
+      "89"
+    ],
+    "clienteId": "41",
+    "clienteNombre": "Verónica Ramírez",
+    "calificacion": 5,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-10-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005960e0a5b604014fb6"
+    },
+    "reservaId": [
+      "90"
+    ],
+    "clienteId": "5",
+    "clienteNombre": "Pierre Dubois",
+    "calificacion": 5,
+    "texto": "Transporte cómodo y puntual.",
+    "fechaResena": [
+      {
+        "$date": "2024-10-24T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005ac6df08aab0859039"
+    },
+    "reservaId": [
+      "91"
+    ],
+    "clienteId": "31",
+    "clienteNombre": "Valeria Mendoza",
+    "calificacion": 1,
+    "texto": "La logística podría mejorar un poco.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005beb129c9fff0388e4"
+    },
+    "reservaId": [
+      "92"
+    ],
+    "clienteId": "77",
+    "clienteNombre": "Diego Farías",
+    "calificacion": 1,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-10-23T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005c59fc9db781ed4b67"
+    },
+    "reservaId": [
+      "93"
+    ],
+    "clienteId": "94",
+    "clienteNombre": "Gael Valdés",
+    "calificacion": 4,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-10-22T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005d0b261b8a14068057"
+    },
+    "reservaId": [
+      "94"
+    ],
+    "clienteId": "45",
+    "clienteNombre": "Sara Contreras",
+    "calificacion": 3,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-14T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005ecd87544ac1d7724a"
+    },
+    "reservaId": [
+      "95"
+    ],
+    "clienteId": "75",
+    "clienteNombre": "Benjamín Palma",
+    "calificacion": 4,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-05T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a0005fced299d61bee0200"
+    },
+    "reservaId": [
+      "96"
+    ],
+    "clienteId": "78",
+    "clienteNombre": "Nicole Ponce",
+    "calificacion": 1,
+    "texto": "Actividades variadas y entretenidas.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-04T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a00060d9fe261c87ccc9a7"
+    },
+    "reservaId": [
+      "97"
+    ],
+    "clienteId": "59",
+    "clienteNombre": "Daniela Salas",
+    "calificacion": 4,
+    "texto": "El guía fue muy profesional y amable.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-13T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000611441f57462008edc"
+    },
+    "reservaId": [
+      "98"
+    ],
+    "clienteId": "81",
+    "clienteNombre": "Sebastián Silva",
+    "calificacion": 1,
+    "texto": "La atención al cliente fue excelente.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-23T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000627602be348731ad30"
+    },
+    "reservaId": [
+      "99"
+    ],
+    "clienteId": "29",
+    "clienteNombre": "Daniela Castro",
+    "calificacion": 2,
+    "texto": "El destino superó mis expectativas.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-07T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a000630c0d7145813fcf0d"
+    },
+    "reservaId": [
+      "100"
+    ],
+    "clienteId": "42",
+    "clienteNombre": "Oscar Díaz",
+    "calificacion": 3,
+    "texto": "Excelente experiencia, todo muy bien organizado.",
+    "fechaResena": [
+      {
+        "$date": "2024-11-28T00:00:00.000Z"
+      }
+    ]
+  }
+]
