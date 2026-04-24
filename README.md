@@ -84,7 +84,7 @@ The project includes multiple dashboards for business analysis:
 ---
 
 ## Project Structure
-
+```markdown
 GAME_DAY_TOURS/
 |
 ├── sql/ # SQL scripts and queries
@@ -93,6 +93,7 @@ GAME_DAY_TOURS/
 ├── powerbi/ # Power BI dashboard files
 ├── screenshots/ # Dashboard visuals
 └── README.md
+```
 
 ---
 
