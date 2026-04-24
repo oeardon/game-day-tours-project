@@ -86,13 +86,13 @@ The project includes multiple dashboards for business analysis:
 ## Project Structure
 
 GAME_DAY_TOURS/
-│
-├── sql/ # SQL scripts and queries
-├── python/ # Data analysis scripts
-├── r/ # Statistical analysis scripts (R)
-├── powerbi/ # Power BI dashboard files
-├── screenshots/ # Dashboard visuals
-└── README.md
+|
+|--- sql/ # SQL scripts and queries
+|--- python/ # Data analysis scripts
+|--- r/ # Statistical analysis scripts (R)
+|--- powerbi/ # Power BI dashboard files
+|---screenshots/ # Dashboard visuals
+\---README.md
 
 ---
 
