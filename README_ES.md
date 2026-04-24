@@ -1,4 +1,4 @@
-# 📊 GAME_DAY_TOURS – Proyecto de Análisis de Datos
+# GAME_DAY_TOURS – Proyecto de Análisis de Datos
 
 ## Descripción General
 GAME_DAY_TOURS es un proyecto de análisis de datos enfocado en mejorar la toma de decisiones en un operador turístico mediante la integración de datos estructurados y no estructurados.  
