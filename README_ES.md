@@ -1,6 +1,6 @@
 # 📊 GAME_DAY_TOURS – Proyecto de Análisis de Datos
 
-## 📌 Descripción General
+## Descripción General
 GAME_DAY_TOURS es un proyecto de análisis de datos enfocado en mejorar la toma de decisiones en un operador turístico mediante la integración de datos estructurados y no estructurados.  
 
 El proyecto implementa una arquitectura híbrida combinando SQL Server y MongoDB, junto con procesamiento de datos en Python y R, y visualización mediante dashboards en Power BI.
@@ -9,7 +9,7 @@ El objetivo es optimizar la eficiencia operativa, analizar el comportamiento de 
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - Analizar patrones de comportamiento de clientes y demanda turística  
 - Monitorear indicadores clave del negocio (KPIs) como ingresos, reservaciones y satisfacción del cliente  
 - Apoyar la toma de decisiones mediante dashboards interactivos  
@@ -84,7 +84,7 @@ El proyecto incluye múltiples dashboards orientados al análisis del negocio:
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 GAME_DAY_TOURS/
 │
 ├── data/ # Datos de ejemplo
@@ -106,7 +106,7 @@ GAME_DAY_TOURS/
 
 ---
 
-## 🚀 Valor del Proyecto
+## Valor del Proyecto
 Este proyecto demuestra cómo el uso de datos permite:
   - Mejorar la eficiencia operativa  
   - Reducir errores en procesos manuales  
